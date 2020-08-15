@@ -6,6 +6,5 @@ Built using
    - ChartJS
    - Material UI.
 
-The project is fetching the live data from the API using Async/Await syntax and displaying the statistics using cards as well as Charts. 
+The project is fetching the live data from the [API](https://covid19.mathdro.id/api "api") using Async/Await syntax and displaying the statistics using cards as well as Charts. 
 
-[API USED](https://covid19.mathdro.id/api "API")
